@@ -164,12 +164,16 @@ cd EduTrack
 **Install and run client dependencies:**
 
 cd frontend
+
 npm install
+
 npm start
 
 
 **Install and run server dependencies:**
 
 cd backend
+
 npm install
+
 npm run dev
